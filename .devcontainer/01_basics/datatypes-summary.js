@@ -5,3 +5,6 @@
 
 // reference (Non primitive)//
 // Array, Objects, Functions //
+
+// Memory//
+// Stack(Primitive), Heap(non-primitive) use of memory//
